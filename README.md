@@ -1,1 +1,3 @@
 # Markdown-to-HTML-Converter
+
+This is a simple Python command-line tool that converts Markdown (`.md`) files into HTML (`.html`) files. To run the tool, first install the required library using `pip install markdown`. Then, execute the script with the command `python converter.py sample.md output.html`. After running, you can open the `output.html` file in any web browser to view the result. The repository includes the main Python script (`converter.py`), a sample input file (`sample.md`), the corresponding HTML output (`output.html`), and a screenshots folder demonstrating the tool in action.
